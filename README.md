@@ -1,4 +1,4 @@
-# JPA Relationship Lab 2
+# JPA Relationship Lab 3
 
 ## Instruction
 
