@@ -54,6 +54,7 @@ public class Cat {
 
     public void addOwner(Owner owner) {
         owners.add(owner);
+        owner.addCat(this);  //Owner is on owning side of relationship
     }
 
     @Override

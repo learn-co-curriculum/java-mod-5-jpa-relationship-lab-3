@@ -31,7 +31,7 @@ public class JpaCreate {
         cat3.setAge(10);
         cat3.setBreed("American Shorthair");
 
-        // create owner >-< cat associations
+        // create owner <> cat associations
         // ADD YOUR CODE HERE
 
 
